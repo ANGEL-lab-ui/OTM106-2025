@@ -1,2 +1,4 @@
 # OTM106-2025
-repositorio de la materia 
+# PRACTICA 1
+## Temas de la materia:
+ 
